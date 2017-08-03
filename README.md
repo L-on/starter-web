@@ -1,6 +1,9 @@
 # Starter Web Repo
 
-TEST 123
+## Deplayment
+
+This section is to define...
+
 ## Purpose
 
 Sample website with plenty of files for demos
